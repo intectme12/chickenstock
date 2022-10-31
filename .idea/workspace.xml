@@ -112,6 +112,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/chickenstock" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -159,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667202539891</updated>
-      <workItem from="1667202541044" duration="723000" />
+      <workItem from="1667202541044" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="first push">
       <created>1667202778020</created>
